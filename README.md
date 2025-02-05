@@ -1,2 +1,2 @@
 # Sirup
-Like Honey, but wihtout exploiting the bees
+Like Honey, but without exploiting the bees
